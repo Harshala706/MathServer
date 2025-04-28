@@ -141,9 +141,6 @@ urlpatterns = [
     path('', views.power_calculator, name='power_calculator'),  
 ]
 ```
-## SERVER SIDE PROCESSING:
-
-![Screenshot 2025-04-28 213109](https://github.com/user-attachments/assets/9d7f7c0b-a2f3-4326-a936-ea926b3a2db9)
 
 ## HOMEPAGE:
 
